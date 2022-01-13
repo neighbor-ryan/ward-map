@@ -3,7 +3,7 @@ Best effort shapefiles (and [map][My Map]) taken from [this tweet](https://twitt
 
 ![](./Ward%20Map%202018-2022.gif)
 
-Couple relevant Imagemagick commands:
+Relevant Imagemagick commands:
 ```bash
 # Crop screenshots (taken on my vertical external monitor):
 for year in 2018 2022; do 
