@@ -3,38 +3,6 @@
   <Document>
     <name>JC 2022 Ward Map (draft)</name>
     <description><![CDATA[Taken from <br>https://twitter.com/Chris_L_Gadsden/status/1481610431475105795]]></description>
-    <Style id="poly-0097A7-1000-41-normal">
-      <LineStyle>
-        <color>ffa79700</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>29a79700</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-0097A7-1000-41-highlight">
-      <LineStyle>
-        <color>ffa79700</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>29a79700</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-0097A7-1000-41">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-0097A7-1000-41-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-0097A7-1000-41-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="poly-0097A7-1200-77-nodesc-normal">
       <LineStyle>
         <color>ffa79700</color>
@@ -71,38 +39,6 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#poly-0097A7-1200-77-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-0F9D58-1000-36-normal">
-      <LineStyle>
-        <color>ff589d0f</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>24589d0f</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-0F9D58-1000-36-highlight">
-      <LineStyle>
-        <color>ff589d0f</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>24589d0f</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-0F9D58-1000-36">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-0F9D58-1000-36-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-0F9D58-1000-36-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="poly-0F9D58-1200-77-nodesc-normal">
@@ -181,70 +117,6 @@
         <styleUrl>#poly-673AB7-1200-77-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-673AB7-2000-41-normal">
-      <LineStyle>
-        <color>ffb73a67</color>
-        <width>2</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>29b73a67</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-673AB7-2000-41-highlight">
-      <LineStyle>
-        <color>ffb73a67</color>
-        <width>3</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>29b73a67</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-673AB7-2000-41">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-673AB7-2000-41-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-673AB7-2000-41-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-CE93D8-1000-43-normal">
-      <LineStyle>
-        <color>ffd893ce</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>2bd893ce</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-CE93D8-1000-43-highlight">
-      <LineStyle>
-        <color>ffd893ce</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>2bd893ce</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-CE93D8-1000-43">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-CE93D8-1000-43-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-CE93D8-1000-43-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="poly-CE93D8-1200-77-nodesc-normal">
       <LineStyle>
         <color>ffd893ce</color>
@@ -319,70 +191,6 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#poly-FF5252-1200-77-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-FF5252-2000-38-normal">
-      <LineStyle>
-        <color>ff5252ff</color>
-        <width>2</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>265252ff</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-FF5252-2000-38-highlight">
-      <LineStyle>
-        <color>ff5252ff</color>
-        <width>3</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>265252ff</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-FF5252-2000-38">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-FF5252-2000-38-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-FF5252-2000-38-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-FFEA00-1000-36-normal">
-      <LineStyle>
-        <color>ff00eaff</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>2400eaff</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-FFEA00-1000-36-highlight">
-      <LineStyle>
-        <color>ff00eaff</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>2400eaff</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-FFEA00-1000-36">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-FFEA00-1000-36-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-FFEA00-1000-36-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="poly-FFEA00-1200-77-nodesc-normal">
