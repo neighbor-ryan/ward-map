@@ -3,38 +3,6 @@
   <Document>
     <name>JC 2022 Ward Map (draft)</name>
     <description><![CDATA[Taken from <br>https://twitter.com/Chris_L_Gadsden/status/1481610431475105795]]></description>
-    <Style id="poly-0097A7-1000-41-normal">
-      <LineStyle>
-        <color>ffa79700</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>29a79700</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-0097A7-1000-41-highlight">
-      <LineStyle>
-        <color>ffa79700</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>29a79700</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-0097A7-1000-41">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-0097A7-1000-41-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-0097A7-1000-41-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="poly-0097A7-1200-77-nodesc-normal">
       <LineStyle>
         <color>ffa79700</color>
@@ -71,38 +39,6 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#poly-0097A7-1200-77-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-0F9D58-1000-36-normal">
-      <LineStyle>
-        <color>ff589d0f</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>24589d0f</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-0F9D58-1000-36-highlight">
-      <LineStyle>
-        <color>ff589d0f</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>24589d0f</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-0F9D58-1000-36">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-0F9D58-1000-36-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-0F9D58-1000-36-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="poly-0F9D58-1200-77-nodesc-normal">
@@ -181,70 +117,6 @@
         <styleUrl>#poly-673AB7-1200-77-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-673AB7-2000-41-normal">
-      <LineStyle>
-        <color>ffb73a67</color>
-        <width>2</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>29b73a67</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-673AB7-2000-41-highlight">
-      <LineStyle>
-        <color>ffb73a67</color>
-        <width>3</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>29b73a67</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-673AB7-2000-41">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-673AB7-2000-41-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-673AB7-2000-41-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-CE93D8-1000-43-normal">
-      <LineStyle>
-        <color>ffd893ce</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>2bd893ce</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-CE93D8-1000-43-highlight">
-      <LineStyle>
-        <color>ffd893ce</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>2bd893ce</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-CE93D8-1000-43">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-CE93D8-1000-43-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-CE93D8-1000-43-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="poly-CE93D8-1200-77-nodesc-normal">
       <LineStyle>
         <color>ffd893ce</color>
@@ -319,70 +191,6 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#poly-FF5252-1200-77-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-FF5252-2000-38-normal">
-      <LineStyle>
-        <color>ff5252ff</color>
-        <width>2</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>265252ff</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-FF5252-2000-38-highlight">
-      <LineStyle>
-        <color>ff5252ff</color>
-        <width>3</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>265252ff</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-FF5252-2000-38">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-FF5252-2000-38-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-FF5252-2000-38-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="poly-FFEA00-1000-36-normal">
-      <LineStyle>
-        <color>ff00eaff</color>
-        <width>1</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>2400eaff</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <Style id="poly-FFEA00-1000-36-highlight">
-      <LineStyle>
-        <color>ff00eaff</color>
-        <width>1.5</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>2400eaff</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-    </Style>
-    <StyleMap id="poly-FFEA00-1000-36">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-FFEA00-1000-36-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-FFEA00-1000-36-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="poly-FFEA00-1200-77-nodesc-normal">
@@ -780,7 +588,7 @@
       <Placemark>
         <name>A</name>
         <description><![CDATA[description: description: <br>ward: A<br>ward2: Denise Ridley<br>count: 243<br>sum_total: 41370.0<br>sum_total1: 39542.0<br>sum_white: 12761.0<br>sum_black: 15467.0<br>sum_aian: 166.0<br>sum_asian: 6694.0<br>sum_nhpi: 45.0<br>sum_other: 4409.0<br>sum_total2: 1828.0<br>sum_hisp: 8575.0<br>sum_nonhis: 32795.0<br>sum_eighte: 30767.0<br>area: 193816013.764<br>perimiter: 68949.6587048<br>factor: 24.5287029858<br>ward: A<br>ward2: Denise Ridley<br>count: 243<br>sum_total: 41370.0<br>sum_total1: 39542.0<br>sum_white: 12761.0<br>sum_black: 15467.0<br>sum_aian: 166.0<br>sum_asian: 6694.0<br>sum_nhpi: 45.0<br>sum_other: 4409.0<br>sum_total2: 1828.0<br>sum_hisp: 8575.0<br>sum_nonhis: 32795.0<br>sum_eighte: 30767.0<br>area: 193816013.764<br>perimiter: 68949.6587048<br>factor: 24.5287029858]]></description>
-        <styleUrl>#poly-673AB7-2000-41</styleUrl>
+        <styleUrl>#poly-673AB7-1200-77-nodesc</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value>description: 
@@ -934,7 +742,7 @@ factor: 24.5287029858</value>
       <Placemark>
         <name>B</name>
         <description><![CDATA[description: description: <br>ward: B<br>ward2: Mira Prinz-Arey<br>count: 177<br>sum_total: 39061.0<br>sum_total1: 36246.0<br>sum_white: 11796.0<br>sum_black: 11599.0<br>sum_aian: 191.0<br>sum_asian: 7024.0<br>sum_nhpi: 34.0<br>sum_other: 5602.0<br>sum_total2: 2815.0<br>sum_hisp: 10496.0<br>sum_nonhis: 28565.0<br>sum_eighte: 28723.0<br>area: 69411672.5603<br>perimiter: 36983.9048721<br>factor: 19.7057522047<br>ward: B<br>ward2: Mira Prinz-Arey<br>count: 177<br>sum_total: 39061.0<br>sum_total1: 36246.0<br>sum_white: 11796.0<br>sum_black: 11599.0<br>sum_aian: 191.0<br>sum_asian: 7024.0<br>sum_nhpi: 34.0<br>sum_other: 5602.0<br>sum_total2: 2815.0<br>sum_hisp: 10496.0<br>sum_nonhis: 28565.0<br>sum_eighte: 28723.0<br>area: 69411672.5603<br>perimiter: 36983.9048721<br>factor: 19.7057522047]]></description>
-        <styleUrl>#poly-0F9D58-1000-36</styleUrl>
+        <styleUrl>#poly-0F9D58-1200-77-nodesc</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value>description: 
@@ -1087,7 +895,7 @@ factor: 19.7057522047</value>
       <Placemark>
         <name>C</name>
         <description><![CDATA[description: description: <br>ward: C<br>ward2: Richard Boggiano<br>count: 215<br>sum_total: 41252.0<br>sum_total1: 37680.0<br>sum_white: 16178.0<br>sum_black: 4050.0<br>sum_aian: 234.0<br>sum_asian: 10075.0<br>sum_nhpi: 23.0<br>sum_other: 7120.0<br>sum_total2: 3572.0<br>sum_hisp: 13073.0<br>sum_nonhis: 28179.0<br>sum_eighte: 32116.0<br>area: 37782044.637<br>perimiter: 30156.7115144<br>factor: 24.0703555909<br>ward: C<br>ward2: Richard Boggiano<br>count: 215<br>sum_total: 41252.0<br>sum_total1: 37680.0<br>sum_white: 16178.0<br>sum_black: 4050.0<br>sum_aian: 234.0<br>sum_asian: 10075.0<br>sum_nhpi: 23.0<br>sum_other: 7120.0<br>sum_total2: 3572.0<br>sum_hisp: 13073.0<br>sum_nonhis: 28179.0<br>sum_eighte: 32116.0<br>area: 37782044.637<br>perimiter: 30156.7115144<br>factor: 24.0703555909]]></description>
-        <styleUrl>#poly-CE93D8-1000-43</styleUrl>
+        <styleUrl>#poly-CE93D8-1200-77-nodesc</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value>description: 
@@ -1259,7 +1067,7 @@ factor: 24.0703555909</value>
       <Placemark>
         <name>D</name>
         <description><![CDATA[description: description: <br>ward: D<br>ward2: Yousef Saleh<br>count: 184<br>sum_total: 41227.0<br>sum_total1: 38623.0<br>sum_white: 19681.0<br>sum_black: 2459.0<br>sum_aian: 225.0<br>sum_asian: 6421.0<br>sum_nhpi: 28.0<br>sum_other: 9809.0<br>sum_total2: 2604.0<br>sum_hisp: 17907.0<br>sum_nonhis: 23320.0<br>sum_eighte: 30684.0<br>area: 68378082.2825<br>perimiter: 41410.4586594<br>factor: 25.078592864<br>ward: D<br>ward2: Yousef Saleh<br>count: 184<br>sum_total: 41227.0<br>sum_total1: 38623.0<br>sum_white: 19681.0<br>sum_black: 2459.0<br>sum_aian: 225.0<br>sum_asian: 6421.0<br>sum_nhpi: 28.0<br>sum_other: 9809.0<br>sum_total2: 2604.0<br>sum_hisp: 17907.0<br>sum_nonhis: 23320.0<br>sum_eighte: 30684.0<br>area: 68378082.2825<br>perimiter: 41410.4586594<br>factor: 25.078592864]]></description>
-        <styleUrl>#poly-FF5252-2000-38</styleUrl>
+        <styleUrl>#poly-FF5252-1200-77-nodesc</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value>description: 
@@ -1651,7 +1459,7 @@ factor: 25.078592864</value>
       <Placemark>
         <name>E</name>
         <description><![CDATA[description: description: <br>ward: E<br>ward2: James Solomon<br>count: 309<br>sum_total: 38303.0<br>sum_total1: 36400.0<br>sum_white: 17258.0<br>sum_black: 6467.0<br>sum_aian: 141.0<br>sum_asian: 7473.0<br>sum_nhpi: 24.0<br>sum_other: 5037.0<br>sum_total2: 1903.0<br>sum_hisp: 10193.0<br>sum_nonhis: 28110.0<br>sum_eighte: 31709.0<br>area: 83941573.8751<br>perimiter: 39936.9376116<br>factor: 19.0008229792<br>ward: E<br>ward2: James Solomon<br>count: 309<br>sum_total: 38303.0<br>sum_total1: 36400.0<br>sum_white: 17258.0<br>sum_black: 6467.0<br>sum_aian: 141.0<br>sum_asian: 7473.0<br>sum_nhpi: 24.0<br>sum_other: 5037.0<br>sum_total2: 1903.0<br>sum_hisp: 10193.0<br>sum_nonhis: 28110.0<br>sum_eighte: 31709.0<br>area: 83941573.8751<br>perimiter: 39936.9376116<br>factor: 19.0008229792]]></description>
-        <styleUrl>#poly-FFEA00-1000-36</styleUrl>
+        <styleUrl>#poly-FFEA00-1200-77-nodesc</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value>description: 
@@ -1782,7 +1590,7 @@ factor: 19.0008229792</value>
       <Placemark>
         <name>F</name>
         <description><![CDATA[description: description: <br>ward: F<br>ward2: Jermaine D. Robinson<br>count: 267<br>sum_total: 38842.0<br>sum_total1: 37553.0<br>sum_white: 3963.0<br>sum_black: 27952.0<br>sum_aian: 114.0<br>sum_asian: 1194.0<br>sum_nhpi: 27.0<br>sum_other: 4303.0<br>sum_total2: 1289.0<br>sum_hisp: 7708.0<br>sum_nonhis: 31134.0<br>sum_eighte: 26653.0<br>area: 138958453.932<br>perimiter: 64552.0163399<br>factor: 29.9871126631<br>ward: F<br>ward2: Jermaine D. Robinson<br>count: 267<br>sum_total: 38842.0<br>sum_total1: 37553.0<br>sum_white: 3963.0<br>sum_black: 27952.0<br>sum_aian: 114.0<br>sum_asian: 1194.0<br>sum_nhpi: 27.0<br>sum_other: 4303.0<br>sum_total2: 1289.0<br>sum_hisp: 7708.0<br>sum_nonhis: 31134.0<br>sum_eighte: 26653.0<br>area: 138958453.932<br>perimiter: 64552.0163399<br>factor: 29.9871126631]]></description>
-        <styleUrl>#poly-0097A7-1000-41</styleUrl>
+        <styleUrl>#poly-0097A7-1200-77-nodesc</styleUrl>
         <ExtendedData>
           <Data name="description">
             <value>description: 
