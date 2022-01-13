@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>JC 2022 Ward Map (draft)</name>
+    <description><![CDATA[Taken from <br>https://twitter.com/Chris_L_Gadsden/status/1481610431475105795]]></description>
+    <Style id="poly-0097A7-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ffa79700</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4da79700</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-0097A7-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ffa79700</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4da79700</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-0097A7-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0097A7-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0097A7-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-0F9D58-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-0F9D58-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-0F9D58-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0F9D58-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0F9D58-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-673AB7-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ffb73a67</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4db73a67</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-673AB7-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ffb73a67</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4db73a67</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-673AB7-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-673AB7-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-673AB7-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-CE93D8-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ffd893ce</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dd893ce</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-CE93D8-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ffd893ce</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4dd893ce</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-CE93D8-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-CE93D8-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-CE93D8-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FF5252-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d5252ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-FF5252-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d5252ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-FF5252-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FF5252-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FF5252-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FFEA00-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff00eaff</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d00eaff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-FFEA00-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff00eaff</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d00eaff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-FFEA00-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FFEA00-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FFEA00-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>JC Ward Map (2018)</name>
+      <Placemark>
+        <name>A</name>
+        <description><![CDATA[description: description: <br>ward: A<br>ward2: Denise Ridley<br>count: 243<br>sum_total: 41370.0<br>sum_total1: 39542.0<br>sum_white: 12761.0<br>sum_black: 15467.0<br>sum_aian: 166.0<br>sum_asian: 6694.0<br>sum_nhpi: 45.0<br>sum_other: 4409.0<br>sum_total2: 1828.0<br>sum_hisp: 8575.0<br>sum_nonhis: 32795.0<br>sum_eighte: 30767.0<br>area: 193816013.764<br>perimiter: 68949.6587048<br>factor: 24.5287029858<br>ward: A<br>ward2: Denise Ridley<br>count: 243<br>sum_total: 41370.0<br>sum_total1: 39542.0<br>sum_white: 12761.0<br>sum_black: 15467.0<br>sum_aian: 166.0<br>sum_asian: 6694.0<br>sum_nhpi: 45.0<br>sum_other: 4409.0<br>sum_total2: 1828.0<br>sum_hisp: 8575.0<br>sum_nonhis: 32795.0<br>sum_eighte: 30767.0<br>area: 193816013.764<br>perimiter: 68949.6587048<br>factor: 24.5287029858]]></description>
+        <styleUrl>#poly-673AB7-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ward: A
+ward2: Denise Ridley
+count: 243
+sum_total: 41370.0
+sum_total1: 39542.0
+sum_white: 12761.0
+sum_black: 15467.0
+sum_aian: 166.0
+sum_asian: 6694.0
+sum_nhpi: 45.0
+sum_other: 4409.0
+sum_total2: 1828.0
+sum_hisp: 8575.0
+sum_nonhis: 32795.0
+sum_eighte: 30767.0
+area: 193816013.764
+perimiter: 68949.6587048
+factor: 24.5287029858</value>
+          </Data>
+          <Data name="ward">
+            <value>A</value>
+          </Data>
+          <Data name="ward2">
+            <value>Denise Ridley</value>
+          </Data>
+          <Data name="count">
+            <value>243</value>
+          </Data>
+          <Data name="sum_total">
+            <value>41370.0</value>
+          </Data>
+          <Data name="sum_total1">
+            <value>39542.0</value>
+          </Data>
+          <Data name="sum_white">
+            <value>12761.0</value>
+          </Data>
+          <Data name="sum_black">
+            <value>15467.0</value>
+          </Data>
+          <Data name="sum_aian">
+            <value>166.0</value>
+          </Data>
+          <Data name="sum_asian">
+            <value>6694.0</value>
+          </Data>
+          <Data name="sum_nhpi">
+            <value>45.0</value>
+          </Data>
+          <Data name="sum_other">
+            <value>4409.0</value>
+          </Data>
+          <Data name="sum_total2">
+            <value>1828.0</value>
+          </Data>
+          <Data name="sum_hisp">
+            <value>8575.0</value>
+          </Data>
+          <Data name="sum_nonhis">
+            <value>32795.0</value>
+          </Data>
+          <Data name="sum_eighte">
+            <value>30767.0</value>
+          </Data>
+          <Data name="area">
+            <value>193816013.764</value>
+          </Data>
+          <Data name="perimiter">
+            <value>68949.6587048</value>
+          </Data>
+          <Data name="factor">
+            <value>24.5287029858</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -74.08556,40.709946,0
+                -74.090228,40.713064,0
+                -74.092222,40.711908,0
+                -74.095494,40.7141,0
+                -74.096386,40.714602,0
+                -74.101686,40.717702,0
+                -74.103413,40.718764,0
+                -74.104868,40.717615,0
+                -74.111963,40.715103,0
+                -74.109126,40.701626,0
+                -74.111257,40.699265,0
+                -74.110633,40.698978,0
+                -74.109599,40.698569,0
+                -74.107908,40.6979,0
+                -74.10783,40.697981,0
+                -74.103017,40.695515,0
+                -74.10103,40.692134,0
+                -74.102293,40.690675,0
+                -74.097756,40.680282,0
+                -74.065578,40.667247,0
+                -74.062962,40.666072,0
+                -74.061088,40.66523,0
+                -74.048898,40.660717,0
+                -74.036845,40.680285,0
+                -74.055203,40.689615,0
+                -74.060619,40.692617,0
+                -74.062591,40.69371,0
+                -74.068204,40.696997,0
+                -74.067438,40.699022,0
+                -74.067221,40.699618,0
+                -74.068091,40.700369,0
+                -74.06872,40.700892,0
+                -74.069575,40.701573,0
+                -74.069856,40.70169,0
+                -74.070122,40.701813,0
+                -74.070285,40.701902,0
+                -74.070585,40.702002,0
+                -74.071485,40.702202,0
+                -74.07271,40.702508,0
+                -74.075333,40.701273,0
+                -74.076085,40.700902,0
+                -74.076681,40.700596,0
+                -74.077214,40.700225,0
+                -74.077525,40.700504,0
+                -74.078313,40.701141,0
+                -74.078637,40.70096,0
+                -74.081166,40.702887,0
+                -74.08298,40.701031,0
+                -74.088634,40.704761,0
+                -74.087517,40.705605,0
+                -74.087396,40.70577,0
+                -74.087288,40.70587,0
+                -74.086884,40.706412,0
+                -74.086769,40.706507,0
+                -74.086149,40.707312,0
+                -74.08724,40.708024,0
+                -74.08669,40.708409,0
+                -74.086422,40.708612,0
+                -74.086153,40.708863,0
+                -74.08596,40.709105,0
+                -74.085793,40.709346,0
+                -74.085664,40.709627,0
+                -74.08556,40.709946,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>B</name>
+        <description><![CDATA[description: description: <br>ward: B<br>ward2: Mira Prinz-Arey<br>count: 177<br>sum_total: 39061.0<br>sum_total1: 36246.0<br>sum_white: 11796.0<br>sum_black: 11599.0<br>sum_aian: 191.0<br>sum_asian: 7024.0<br>sum_nhpi: 34.0<br>sum_other: 5602.0<br>sum_total2: 2815.0<br>sum_hisp: 10496.0<br>sum_nonhis: 28565.0<br>sum_eighte: 28723.0<br>area: 69411672.5603<br>perimiter: 36983.9048721<br>factor: 19.7057522047<br>ward: B<br>ward2: Mira Prinz-Arey<br>count: 177<br>sum_total: 39061.0<br>sum_total1: 36246.0<br>sum_white: 11796.0<br>sum_black: 11599.0<br>sum_aian: 191.0<br>sum_asian: 7024.0<br>sum_nhpi: 34.0<br>sum_other: 5602.0<br>sum_total2: 2815.0<br>sum_hisp: 10496.0<br>sum_nonhis: 28565.0<br>sum_eighte: 28723.0<br>area: 69411672.5603<br>perimiter: 36983.9048721<br>factor: 19.7057522047]]></description>
+        <styleUrl>#poly-0F9D58-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ward: B
+ward2: Mira Prinz-Arey
+count: 177
+sum_total: 39061.0
+sum_total1: 36246.0
+sum_white: 11796.0
+sum_black: 11599.0
+sum_aian: 191.0
+sum_asian: 7024.0
+sum_nhpi: 34.0
+sum_other: 5602.0
+sum_total2: 2815.0
+sum_hisp: 10496.0
+sum_nonhis: 28565.0
+sum_eighte: 28723.0
+area: 69411672.5603
+perimiter: 36983.9048721
+factor: 19.7057522047</value>
+          </Data>
+          <Data name="ward">
+            <value>B</value>
+          </Data>
+          <Data name="ward2">
+            <value>Mira Prinz-Arey</value>
+          </Data>
+          <Data name="count">
+            <value>177</value>
+          </Data>
+          <Data name="sum_total">
+            <value>39061.0</value>
+          </Data>
+          <Data name="sum_total1">
+            <value>36246.0</value>
+          </Data>
+          <Data name="sum_white">
+            <value>11796.0</value>
+          </Data>
+          <Data name="sum_black">
+            <value>11599.0</value>
+          </Data>
+          <Data name="sum_aian">
+            <value>191.0</value>
+          </Data>
+          <Data name="sum_asian">
+            <value>7024.0</value>
+          </Data>
+          <Data name="sum_nhpi">
+            <value>34.0</value>
+          </Data>
+          <Data name="sum_other">
+            <value>5602.0</value>
+          </Data>
+          <Data name="sum_total2">
+            <value>2815.0</value>
+          </Data>
+          <Data name="sum_hisp">
+            <value>10496.0</value>
+          </Data>
+          <Data name="sum_nonhis">
+            <value>28565.0</value>
+          </Data>
+          <Data name="sum_eighte">
+            <value>28723.0</value>
+          </Data>
+          <Data name="area">
+            <value>69411672.5603</value>
+          </Data>
+          <Data name="perimiter">
+            <value>36983.9048721</value>
+          </Data>
+          <Data name="factor">
+            <value>19.7057522047</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -74.08074,40.71407,0
+                -74.080217,40.714665,0
+                -74.078438,40.716328,0
+                -74.078154,40.716592,0
+                -74.07744,40.717089,0
+                -74.074741,40.71892,0
+                -74.072087,40.721624,0
+                -74.070483,40.723362,0
+                -74.070136,40.723846,0
+                -74.069879,40.724262,0
+                -74.069725,40.724416,0
+                -74.069482,40.72458,0
+                -74.068051,40.725301,0
+                -74.06769,40.725882,0
+                -74.067501,40.726435,0
+                -74.067194,40.72718,0
+                -74.070099,40.728322,0
+                -74.069497,40.729242,0
+                -74.0707,40.729716,0
+                -74.071452,40.730068,0
+                -74.073489,40.730878,0
+                -74.071349,40.7344,0
+                -74.070012,40.736542,0
+                -74.069874,40.736756,0
+                -74.072596,40.737548,0
+                -74.072808,40.737658,0
+                -74.072321,40.738709,0
+                -74.072083,40.739495,0
+                -74.071737,40.740099,0
+                -74.071599,40.740223,0
+                -74.070559,40.741977,0
+                -74.072163,40.742287,0
+                -74.074737,40.742721,0
+                -74.07593,40.742963,0
+                -74.076964,40.743129,0
+                -74.078058,40.742237,0
+                -74.081193,40.740664,0
+                -74.086199,40.739573,0
+                -74.091627,40.737532,0
+                -74.095394,40.734694,0
+                -74.097137,40.732302,0
+                -74.097919,40.730424,0
+                -74.100474,40.721085,0
+                -74.103413,40.718764,0
+                -74.101686,40.717702,0
+                -74.096386,40.714602,0
+                -74.095494,40.7141,0
+                -74.092222,40.711908,0
+                -74.090228,40.713064,0
+                -74.08556,40.709946,0
+                -74.085664,40.709627,0
+                -74.085793,40.709346,0
+                -74.08596,40.709105,0
+                -74.086153,40.708863,0
+                -74.086422,40.708612,0
+                -74.08669,40.708409,0
+                -74.08724,40.708024,0
+                -74.086149,40.707312,0
+                -74.084205,40.709666,0
+                -74.083487,40.710589,0
+                -74.082511,40.711885,0
+                -74.08074,40.71407,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>C</name>
+        <description><![CDATA[description: description: <br>ward: C<br>ward2: Richard Boggiano<br>count: 215<br>sum_total: 41252.0<br>sum_total1: 37680.0<br>sum_white: 16178.0<br>sum_black: 4050.0<br>sum_aian: 234.0<br>sum_asian: 10075.0<br>sum_nhpi: 23.0<br>sum_other: 7120.0<br>sum_total2: 3572.0<br>sum_hisp: 13073.0<br>sum_nonhis: 28179.0<br>sum_eighte: 32116.0<br>area: 37782044.637<br>perimiter: 30156.7115144<br>factor: 24.0703555909<br>ward: C<br>ward2: Richard Boggiano<br>count: 215<br>sum_total: 41252.0<br>sum_total1: 37680.0<br>sum_white: 16178.0<br>sum_black: 4050.0<br>sum_aian: 234.0<br>sum_asian: 10075.0<br>sum_nhpi: 23.0<br>sum_other: 7120.0<br>sum_total2: 3572.0<br>sum_hisp: 13073.0<br>sum_nonhis: 28179.0<br>sum_eighte: 32116.0<br>area: 37782044.637<br>perimiter: 30156.7115144<br>factor: 24.0703555909]]></description>
+        <styleUrl>#poly-CE93D8-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ward: C
+ward2: Richard Boggiano
+count: 215
+sum_total: 41252.0
+sum_total1: 37680.0
+sum_white: 16178.0
+sum_black: 4050.0
+sum_aian: 234.0
+sum_asian: 10075.0
+sum_nhpi: 23.0
+sum_other: 7120.0
+sum_total2: 3572.0
+sum_hisp: 13073.0
+sum_nonhis: 28179.0
+sum_eighte: 32116.0
+area: 37782044.637
+perimiter: 30156.7115144
+factor: 24.0703555909</value>
+          </Data>
+          <Data name="ward">
+            <value>C</value>
+          </Data>
+          <Data name="ward2">
+            <value>Richard Boggiano</value>
+          </Data>
+          <Data name="count">
+            <value>215</value>
+          </Data>
+          <Data name="sum_total">
+            <value>41252.0</value>
+          </Data>
+          <Data name="sum_total1">
+            <value>37680.0</value>
+          </Data>
+          <Data name="sum_white">
+            <value>16178.0</value>
+          </Data>
+          <Data name="sum_black">
+            <value>4050.0</value>
+          </Data>
+          <Data name="sum_aian">
+            <value>234.0</value>
+          </Data>
+          <Data name="sum_asian">
+            <value>10075.0</value>
+          </Data>
+          <Data name="sum_nhpi">
+            <value>23.0</value>
+          </Data>
+          <Data name="sum_other">
+            <value>7120.0</value>
+          </Data>
+          <Data name="sum_total2">
+            <value>3572.0</value>
+          </Data>
+          <Data name="sum_hisp">
+            <value>13073.0</value>
+          </Data>
+          <Data name="sum_nonhis">
+            <value>28179.0</value>
+          </Data>
+          <Data name="sum_eighte">
+            <value>32116.0</value>
+          </Data>
+          <Data name="area">
+            <value>37782044.637</value>
+          </Data>
+          <Data name="perimiter">
+            <value>30156.7115144</value>
+          </Data>
+          <Data name="factor">
+            <value>24.0703555909</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -74.054872,40.74334,0
+                -74.058269,40.744718,0
+                -74.061671,40.739965,0
+                -74.062916,40.740301,0
+                -74.066012,40.740989,0
+                -74.06768,40.741353,0
+                -74.070559,40.741977,0
+                -74.071599,40.740223,0
+                -74.071737,40.740099,0
+                -74.072083,40.739495,0
+                -74.072321,40.738709,0
+                -74.072808,40.737658,0
+                -74.072596,40.737548,0
+                -74.069874,40.736756,0
+                -74.070012,40.736542,0
+                -74.071349,40.7344,0
+                -74.073489,40.730878,0
+                -74.071452,40.730068,0
+                -74.0707,40.729716,0
+                -74.069497,40.729242,0
+                -74.070099,40.728322,0
+                -74.067194,40.72718,0
+                -74.067501,40.726435,0
+                -74.06769,40.725882,0
+                -74.068051,40.725301,0
+                -74.067217,40.724821,0
+                -74.064192,40.723768,0
+                -74.064153,40.72378,0
+                -74.061644,40.72299,0
+                -74.055436,40.721023,0
+                -74.054698,40.723149,0
+                -74.056104,40.723582,0
+                -74.054497,40.726177,0
+                -74.053947,40.727473,0
+                -74.053585,40.728327,0
+                -74.051985,40.730701,0
+                -74.051495,40.73128,0
+                -74.051885,40.731448,0
+                -74.051678,40.731557,0
+                -74.051492,40.731723,0
+                -74.051327,40.731879,0
+                -74.050438,40.732532,0
+                -74.050128,40.732849,0
+                -74.049051,40.734007,0
+                -74.048269,40.735067,0
+                -74.046203,40.735607,0
+                -74.044555,40.736007,0
+                -74.043773,40.736134,0
+                -74.042815,40.736308,0
+                -74.042911,40.736555,0
+                -74.043901,40.737545,0
+                -74.043817,40.737706,0
+                -74.043812,40.737897,0
+                -74.04367,40.738275,0
+                -74.043614,40.738513,0
+                -74.043645,40.738546,0
+                -74.043696,40.7386,0
+                -74.043741,40.738753,0
+                -74.043654,40.739053,0
+                -74.043654,40.739115,0
+                -74.043602,40.739317,0
+                -74.043477,40.739696,0
+                -74.043377,40.739857,0
+                -74.0436,40.739997,0
+                -74.043703,40.740116,0
+                -74.043612,40.74029,0
+                -74.043588,40.740324,0
+                -74.044061,40.740503,0
+                -74.045072,40.73964,0
+                -74.045132,40.739608,0
+                -74.045194,40.739629,0
+                -74.045183,40.739703,0
+                -74.044542,40.740687,0
+                -74.045204,40.740935,0
+                -74.048467,40.742121,0
+                -74.048561,40.742197,0
+                -74.051218,40.743304,0
+                -74.051557,40.742817,0
+                -74.053945,40.743788,0
+                -74.054545,40.742954,0
+                -74.054872,40.74334,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>D</name>
+        <description><![CDATA[description: description: <br>ward: D<br>ward2: Yousef Saleh<br>count: 184<br>sum_total: 41227.0<br>sum_total1: 38623.0<br>sum_white: 19681.0<br>sum_black: 2459.0<br>sum_aian: 225.0<br>sum_asian: 6421.0<br>sum_nhpi: 28.0<br>sum_other: 9809.0<br>sum_total2: 2604.0<br>sum_hisp: 17907.0<br>sum_nonhis: 23320.0<br>sum_eighte: 30684.0<br>area: 68378082.2825<br>perimiter: 41410.4586594<br>factor: 25.078592864<br>ward: D<br>ward2: Yousef Saleh<br>count: 184<br>sum_total: 41227.0<br>sum_total1: 38623.0<br>sum_white: 19681.0<br>sum_black: 2459.0<br>sum_aian: 225.0<br>sum_asian: 6421.0<br>sum_nhpi: 28.0<br>sum_other: 9809.0<br>sum_total2: 2604.0<br>sum_hisp: 17907.0<br>sum_nonhis: 23320.0<br>sum_eighte: 30684.0<br>area: 68378082.2825<br>perimiter: 41410.4586594<br>factor: 25.078592864]]></description>
+        <styleUrl>#poly-FF5252-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ward: D
+ward2: Yousef Saleh
+count: 184
+sum_total: 41227.0
+sum_total1: 38623.0
+sum_white: 19681.0
+sum_black: 2459.0
+sum_aian: 225.0
+sum_asian: 6421.0
+sum_nhpi: 28.0
+sum_other: 9809.0
+sum_total2: 2604.0
+sum_hisp: 17907.0
+sum_nonhis: 23320.0
+sum_eighte: 30684.0
+area: 68378082.2825
+perimiter: 41410.4586594
+factor: 25.078592864</value>
+          </Data>
+          <Data name="ward">
+            <value>D</value>
+          </Data>
+          <Data name="ward2">
+            <value>Yousef Saleh</value>
+          </Data>
+          <Data name="count">
+            <value>184</value>
+          </Data>
+          <Data name="sum_total">
+            <value>41227.0</value>
+          </Data>
+          <Data name="sum_total1">
+            <value>38623.0</value>
+          </Data>
+          <Data name="sum_white">
+            <value>19681.0</value>
+          </Data>
+          <Data name="sum_black">
+            <value>2459.0</value>
+          </Data>
+          <Data name="sum_aian">
+            <value>225.0</value>
+          </Data>
+          <Data name="sum_asian">
+            <value>6421.0</value>
+          </Data>
+          <Data name="sum_nhpi">
+            <value>28.0</value>
+          </Data>
+          <Data name="sum_other">
+            <value>9809.0</value>
+          </Data>
+          <Data name="sum_total2">
+            <value>2604.0</value>
+          </Data>
+          <Data name="sum_hisp">
+            <value>17907.0</value>
+          </Data>
+          <Data name="sum_nonhis">
+            <value>23320.0</value>
+          </Data>
+          <Data name="sum_eighte">
+            <value>30684.0</value>
+          </Data>
+          <Data name="area">
+            <value>68378082.2825</value>
+          </Data>
+          <Data name="perimiter">
+            <value>41410.4586594</value>
+          </Data>
+          <Data name="factor">
+            <value>25.078592864</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -74.043588,40.740324,0
+                -74.043568,40.740351,0
+                -74.043492,40.740424,0
+                -74.043342,40.740539,0
+                -74.04333,40.740555,0
+                -74.043273,40.740613,0
+                -74.043194,40.74068,0
+                -74.043106,40.740742,0
+                -74.042954,40.740843,0
+                -74.042861,40.740899,0
+                -74.04286,40.7409,0
+                -74.04286,40.740899,0
+                -74.042777,40.740951,0
+                -74.042771,40.740954,0
+                -74.042728,40.740981,0
+                -74.042614,40.741046,0
+                -74.042556,40.741079,0
+                -74.042514,40.741103,0
+                -74.042402,40.741163,0
+                -74.042359,40.741187,0
+                -74.042313,40.741219,0
+                -74.042295,40.741233,0
+                -74.04225,40.741273,0
+                -74.042212,40.741316,0
+                -74.042188,40.741356,0
+                -74.04217,40.741402,0
+                -74.042162,40.741426,0
+                -74.042155,40.741454,0
+                -74.042164,40.741558,0
+                -74.042184,40.74171,0
+                -74.042219,40.74197,0
+                -74.04223,40.742045,0
+                -74.042242,40.742136,0
+                -74.042258,40.742261,0
+                -74.042275,40.742386,0
+                -74.042283,40.742457,0
+                -74.042258,40.742667,0
+                -74.042256,40.742689,0
+                -74.042247,40.742772,0
+                -74.042236,40.742861,0
+                -74.042228,40.742893,0
+                -74.042219,40.742929,0
+                -74.042197,40.742998,0
+                -74.042117,40.743182,0
+                -74.042027,40.743359,0
+                -74.041974,40.743446,0
+                -74.04195,40.74348,0
+                -74.041891,40.743567,0
+                -74.041766,40.743738,0
+                -74.041714,40.7438,0
+                -74.041646,40.743871,0
+                -74.041595,40.743929,0
+                -74.041527,40.743996,0
+                -74.041507,40.744023,0
+                -74.041488,40.744056,0
+                -74.041458,40.744126,0
+                -74.041445,40.744178,0
+                -74.04144,40.744212,0
+                -74.041438,40.744283,0
+                -74.041444,40.744356,0
+                -74.041455,40.744431,0
+                -74.041466,40.744487,0
+                -74.041464,40.744504,0
+                -74.041452,40.744534,0
+                -74.041443,40.744541,0
+                -74.041307,40.74465,0
+                -74.041304,40.744664,0
+                -74.041299,40.744687,0
+                -74.041293,40.74471,0
+                -74.041286,40.744733,0
+                -74.041279,40.744755,0
+                -74.041271,40.744778,0
+                -74.041265,40.744795,0
+                -74.041263,40.744801,0
+                -74.041239,40.744839,0
+                -74.041201,40.744897,0
+                -74.041132,40.744988,0
+                -74.041018,40.745117,0
+                -74.040939,40.745196,0
+                -74.04091,40.745224,0
+                -74.040871,40.745263,0
+                -74.040834,40.745302,0
+                -74.040757,40.745382,0
+                -74.040678,40.745463,0
+                -74.040407,40.745744,0
+                -74.040315,40.745837,0
+                -74.040181,40.745977,0
+                -74.039975,40.746196,0
+                -74.039842,40.746345,0
+                -74.039796,40.746399,0
+                -74.039707,40.746507,0
+                -74.039654,40.746577,0
+                -74.039626,40.746618,0
+                -74.039562,40.746717,0
+                -74.039503,40.746825,0
+                -74.039459,40.74691,0
+                -74.039402,40.747031,0
+                -74.039296,40.747281,0
+                -74.039242,40.747416,0
+                -74.039191,40.747519,0
+                -74.039157,40.747577,0
+                -74.039121,40.747634,0
+                -74.039046,40.747733,0
+                -74.039004,40.747797,0
+                -74.038867,40.747938,0
+                -74.038612,40.748307,0
+                -74.038017,40.749655,0
+                -74.03788,40.749873,0
+                -74.037661,40.750161,0
+                -74.037876,40.750286,0
+                -74.038723,40.750776,0
+                -74.038841,40.750848,0
+                -74.03884,40.750912,0
+                -74.038874,40.750979,0
+                -74.038957,40.751024,0
+                -74.042175,40.752249,0
+                -74.042434,40.752493,0
+                -74.042604,40.7528,0
+                -74.043665,40.756585,0
+                -74.049076,40.758514,0
+                -74.049257,40.758613,0
+                -74.049529,40.759118,0
+                -74.049681,40.759323,0
+                -74.049798,40.759431,0
+                -74.049913,40.759515,0
+                -74.051352,40.760082,0
+                -74.051642,40.760309,0
+                -74.05179,40.760427,0
+                -74.05191,40.760555,0
+                -74.052119,40.760913,0
+                -74.055619,40.766787,0
+                -74.056809,40.768928,0
+                -74.056742,40.768972,0
+                -74.056609,40.769144,0
+                -74.05657,40.769196,0
+                -74.056335,40.769542,0
+                -74.05649,40.769563,0
+                -74.056624,40.769582,0
+                -74.056765,40.769434,0
+                -74.056948,40.769149,0
+                -74.057158,40.768938,0
+                -74.057383,40.768664,0
+                -74.057481,40.768495,0
+                -74.057594,40.768315,0
+                -74.057665,40.768135,0
+                -74.057721,40.767977,0
+                -74.05782,40.767765,0
+                -74.057905,40.767607,0
+                -74.058031,40.767427,0
+                -74.05813,40.767258,0
+                -74.058284,40.767058,0
+                -74.058453,40.766857,0
+                -74.058579,40.766752,0
+                -74.058774,40.766647,0
+                -74.059026,40.766531,0
+                -74.059235,40.766426,0
+                -74.059473,40.766268,0
+                -74.059711,40.7661,0
+                -74.059879,40.765963,0
+                -74.060075,40.765752,0
+                -74.060132,40.76554,0
+                -74.06012,40.765307,0
+                -74.060095,40.764916,0
+                -74.059944,40.764576,0
+                -74.059848,40.764353,0
+                -74.05978,40.764163,0
+                -74.059753,40.763961,0
+                -74.059782,40.763834,0
+                -74.05988,40.763676,0
+                -74.059979,40.763549,0
+                -74.060063,40.763391,0
+                -74.060039,40.763262,0
+                -74.060036,40.763119,0
+                -74.060037,40.763052,0
+                -74.060011,40.762914,0
+                -74.059983,40.762808,0
+                -74.05997,40.762724,0
+                -74.060068,40.762607,0
+                -74.060194,40.762555,0
+                -74.060333,40.762513,0
+                -74.060515,40.762471,0
+                -74.060752,40.76243,0
+                -74.060961,40.762399,0
+                -74.061351,40.762348,0
+                -74.061657,40.762349,0
+                -74.061922,40.762371,0
+                -74.062074,40.762435,0
+                -74.062338,40.762542,0
+                -74.062546,40.762659,0
+                -74.062699,40.762808,0
+                -74.062976,40.76301,0
+                -74.063142,40.76317,0
+                -74.063294,40.763308,0
+                -74.063599,40.76351,0
+                -74.063882,40.763629,0
+                -74.064057,40.763734,0
+                -74.064363,40.763788,0
+                -74.06492,40.76379,0
+                -74.065157,40.763696,0
+                -74.065437,40.763528,0
+                -74.065801,40.763243,0
+                -74.065899,40.76318,0
+                -74.066066,40.763075,0
+                -74.066332,40.762949,0
+                -74.066556,40.762812,0
+                -74.067017,40.762581,0
+                -74.06738,40.762423,0
+                -74.068119,40.76214,0
+                -74.06851,40.761983,0
+                -74.069586,40.761489,0
+                -74.070871,40.760869,0
+                -74.07129,40.760638,0
+                -74.071653,40.760512,0
+                -74.072002,40.760291,0
+                -74.072323,40.760134,0
+                -74.072408,40.760028,0
+                -74.072478,40.75987,0
+                -74.072479,40.759679,0
+                -74.072494,40.75951,0
+                -74.072552,40.759266,0
+                -74.072594,40.759118,0
+                -74.072651,40.759023,0
+                -74.072776,40.75895,0
+                -74.072944,40.758887,0
+                -74.073111,40.758866,0
+                -74.073502,40.758772,0
+                -74.073962,40.758636,0
+                -74.074394,40.7585,0
+                -74.074813,40.758311,0
+                -74.074883,40.758227,0
+                -74.075011,40.757942,0
+                -74.075124,40.757624,0
+                -74.075195,40.757371,0
+                -74.075252,40.757212,0
+                -74.075267,40.757011,0
+                -74.075199,40.756831,0
+                -74.075145,40.756555,0
+                -74.075076,40.756417,0
+                -74.075007,40.756279,0
+                -74.074939,40.75611,0
+                -74.074912,40.755993,0
+                -74.074912,40.755866,0
+                -74.074941,40.755718,0
+                -74.075011,40.755623,0
+                -74.07511,40.755507,0
+                -74.075221,40.755433,0
+                -74.075347,40.75537,0
+                -74.075542,40.75535,0
+                -74.075946,40.755319,0
+                -74.076058,40.75532,0
+                -74.076309,40.755236,0
+                -74.076504,40.75511,0
+                -74.076645,40.754909,0
+                -74.076591,40.754697,0
+                -74.076578,40.754411,0
+                -74.076496,40.754273,0
+                -74.076371,40.754146,0
+                -74.076233,40.753997,0
+                -74.076039,40.753806,0
+                -74.075707,40.753508,0
+                -74.075513,40.753349,0
+                -74.075375,40.753147,0
+                -74.07532,40.753009,0
+                -74.075335,40.752861,0
+                -74.075336,40.752723,0
+                -74.075449,40.752575,0
+                -74.075658,40.752523,0
+                -74.075909,40.752408,0
+                -74.076647,40.752379,0
+                -74.077238,40.752174,0
+                -74.079454,40.751405,0
+                -74.079019,40.749523,0
+                -74.077179,40.749522,0
+                -74.075518,40.748565,0
+                -74.074903,40.746978,0
+                -74.075545,40.744287,0
+                -74.076964,40.743129,0
+                -74.07593,40.742963,0
+                -74.074737,40.742721,0
+                -74.072163,40.742287,0
+                -74.070559,40.741977,0
+                -74.06768,40.741353,0
+                -74.066012,40.740989,0
+                -74.062916,40.740301,0
+                -74.061671,40.739965,0
+                -74.058269,40.744718,0
+                -74.054872,40.74334,0
+                -74.054545,40.742954,0
+                -74.053945,40.743788,0
+                -74.051557,40.742817,0
+                -74.051218,40.743304,0
+                -74.048561,40.742197,0
+                -74.048467,40.742121,0
+                -74.045204,40.740935,0
+                -74.044542,40.740687,0
+                -74.045183,40.739703,0
+                -74.045194,40.739629,0
+                -74.045132,40.739608,0
+                -74.045072,40.73964,0
+                -74.044061,40.740503,0
+                -74.043588,40.740324,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>E</name>
+        <description><![CDATA[description: description: <br>ward: E<br>ward2: James Solomon<br>count: 309<br>sum_total: 38303.0<br>sum_total1: 36400.0<br>sum_white: 17258.0<br>sum_black: 6467.0<br>sum_aian: 141.0<br>sum_asian: 7473.0<br>sum_nhpi: 24.0<br>sum_other: 5037.0<br>sum_total2: 1903.0<br>sum_hisp: 10193.0<br>sum_nonhis: 28110.0<br>sum_eighte: 31709.0<br>area: 83941573.8751<br>perimiter: 39936.9376116<br>factor: 19.0008229792<br>ward: E<br>ward2: James Solomon<br>count: 309<br>sum_total: 38303.0<br>sum_total1: 36400.0<br>sum_white: 17258.0<br>sum_black: 6467.0<br>sum_aian: 141.0<br>sum_asian: 7473.0<br>sum_nhpi: 24.0<br>sum_other: 5037.0<br>sum_total2: 1903.0<br>sum_hisp: 10193.0<br>sum_nonhis: 28110.0<br>sum_eighte: 31709.0<br>area: 83941573.8751<br>perimiter: 39936.9376116<br>factor: 19.0008229792]]></description>
+        <styleUrl>#poly-FFEA00-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ward: E
+ward2: James Solomon
+count: 309
+sum_total: 38303.0
+sum_total1: 36400.0
+sum_white: 17258.0
+sum_black: 6467.0
+sum_aian: 141.0
+sum_asian: 7473.0
+sum_nhpi: 24.0
+sum_other: 5037.0
+sum_total2: 1903.0
+sum_hisp: 10193.0
+sum_nonhis: 28110.0
+sum_eighte: 31709.0
+area: 83941573.8751
+perimiter: 39936.9376116
+factor: 19.0008229792</value>
+          </Data>
+          <Data name="ward">
+            <value>E</value>
+          </Data>
+          <Data name="ward2">
+            <value>James Solomon</value>
+          </Data>
+          <Data name="count">
+            <value>309</value>
+          </Data>
+          <Data name="sum_total">
+            <value>38303.0</value>
+          </Data>
+          <Data name="sum_total1">
+            <value>36400.0</value>
+          </Data>
+          <Data name="sum_white">
+            <value>17258.0</value>
+          </Data>
+          <Data name="sum_black">
+            <value>6467.0</value>
+          </Data>
+          <Data name="sum_aian">
+            <value>141.0</value>
+          </Data>
+          <Data name="sum_asian">
+            <value>7473.0</value>
+          </Data>
+          <Data name="sum_nhpi">
+            <value>24.0</value>
+          </Data>
+          <Data name="sum_other">
+            <value>5037.0</value>
+          </Data>
+          <Data name="sum_total2">
+            <value>1903.0</value>
+          </Data>
+          <Data name="sum_hisp">
+            <value>10193.0</value>
+          </Data>
+          <Data name="sum_nonhis">
+            <value>28110.0</value>
+          </Data>
+          <Data name="sum_eighte">
+            <value>31709.0</value>
+          </Data>
+          <Data name="area">
+            <value>83941573.8751</value>
+          </Data>
+          <Data name="perimiter">
+            <value>39936.9376116</value>
+          </Data>
+          <Data name="factor">
+            <value>19.0008229792</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -74.051492,40.711752,0
+                -74.050218,40.711602,0
+                -74.032019,40.709446,0
+                -74.023576,40.708519,0
+                -74.019811,40.730662,0
+                -74.025417,40.732235,0
+                -74.028203,40.733099,0
+                -74.030025,40.733664,0
+                -74.033319,40.734684,0
+                -74.034446,40.735042,0
+                -74.038575,40.736323,0
+                -74.038819,40.736304,0
+                -74.039176,40.736331,0
+                -74.039617,40.736483,0
+                -74.040265,40.736345,0
+                -74.04047,40.736286,0
+                -74.041817,40.736095,0
+                -74.042649,40.735962,0
+                -74.042815,40.735948,0
+                -74.042764,40.736175,0
+                -74.042815,40.736308,0
+                -74.043773,40.736134,0
+                -74.044555,40.736007,0
+                -74.046203,40.735607,0
+                -74.048269,40.735067,0
+                -74.049051,40.734007,0
+                -74.050128,40.732849,0
+                -74.050438,40.732532,0
+                -74.051327,40.731879,0
+                -74.051492,40.731723,0
+                -74.051678,40.731557,0
+                -74.051885,40.731448,0
+                -74.051495,40.73128,0
+                -74.051985,40.730701,0
+                -74.053585,40.728327,0
+                -74.053947,40.727473,0
+                -74.054497,40.726177,0
+                -74.056104,40.723582,0
+                -74.04668,40.720676,0
+                -74.051492,40.711752,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>F</name>
+        <description><![CDATA[description: description: <br>ward: F<br>ward2: Jermaine D. Robinson<br>count: 267<br>sum_total: 38842.0<br>sum_total1: 37553.0<br>sum_white: 3963.0<br>sum_black: 27952.0<br>sum_aian: 114.0<br>sum_asian: 1194.0<br>sum_nhpi: 27.0<br>sum_other: 4303.0<br>sum_total2: 1289.0<br>sum_hisp: 7708.0<br>sum_nonhis: 31134.0<br>sum_eighte: 26653.0<br>area: 138958453.932<br>perimiter: 64552.0163399<br>factor: 29.9871126631<br>ward: F<br>ward2: Jermaine D. Robinson<br>count: 267<br>sum_total: 38842.0<br>sum_total1: 37553.0<br>sum_white: 3963.0<br>sum_black: 27952.0<br>sum_aian: 114.0<br>sum_asian: 1194.0<br>sum_nhpi: 27.0<br>sum_other: 4303.0<br>sum_total2: 1289.0<br>sum_hisp: 7708.0<br>sum_nonhis: 31134.0<br>sum_eighte: 26653.0<br>area: 138958453.932<br>perimiter: 64552.0163399<br>factor: 29.9871126631]]></description>
+        <styleUrl>#poly-0097A7-1200-77-nodesc</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+ward: F
+ward2: Jermaine D. Robinson
+count: 267
+sum_total: 38842.0
+sum_total1: 37553.0
+sum_white: 3963.0
+sum_black: 27952.0
+sum_aian: 114.0
+sum_asian: 1194.0
+sum_nhpi: 27.0
+sum_other: 4303.0
+sum_total2: 1289.0
+sum_hisp: 7708.0
+sum_nonhis: 31134.0
+sum_eighte: 26653.0
+area: 138958453.932
+perimiter: 64552.0163399
+factor: 29.9871126631</value>
+          </Data>
+          <Data name="ward">
+            <value>F</value>
+          </Data>
+          <Data name="ward2">
+            <value>Jermaine D. Robinson</value>
+          </Data>
+          <Data name="count">
+            <value>267</value>
+          </Data>
+          <Data name="sum_total">
+            <value>38842.0</value>
+          </Data>
+          <Data name="sum_total1">
+            <value>37553.0</value>
+          </Data>
+          <Data name="sum_white">
+            <value>3963.0</value>
+          </Data>
+          <Data name="sum_black">
+            <value>27952.0</value>
+          </Data>
+          <Data name="sum_aian">
+            <value>114.0</value>
+          </Data>
+          <Data name="sum_asian">
+            <value>1194.0</value>
+          </Data>
+          <Data name="sum_nhpi">
+            <value>27.0</value>
+          </Data>
+          <Data name="sum_other">
+            <value>4303.0</value>
+          </Data>
+          <Data name="sum_total2">
+            <value>1289.0</value>
+          </Data>
+          <Data name="sum_hisp">
+            <value>7708.0</value>
+          </Data>
+          <Data name="sum_nonhis">
+            <value>31134.0</value>
+          </Data>
+          <Data name="sum_eighte">
+            <value>26653.0</value>
+          </Data>
+          <Data name="area">
+            <value>138958453.932</value>
+          </Data>
+          <Data name="perimiter">
+            <value>64552.0163399</value>
+          </Data>
+          <Data name="factor">
+            <value>29.9871126631</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -74.067217,40.724821,0
+                -74.068051,40.725301,0
+                -74.069482,40.72458,0
+                -74.069725,40.724416,0
+                -74.069879,40.724262,0
+                -74.070136,40.723846,0
+                -74.070483,40.723362,0
+                -74.072087,40.721624,0
+                -74.074741,40.71892,0
+                -74.07744,40.717089,0
+                -74.078154,40.716592,0
+                -74.078438,40.716328,0
+                -74.080217,40.714665,0
+                -74.08074,40.71407,0
+                -74.082511,40.711885,0
+                -74.083487,40.710589,0
+                -74.084205,40.709666,0
+                -74.086149,40.707312,0
+                -74.086769,40.706507,0
+                -74.086884,40.706412,0
+                -74.087288,40.70587,0
+                -74.087396,40.70577,0
+                -74.087517,40.705605,0
+                -74.088634,40.704761,0
+                -74.08298,40.701031,0
+                -74.081166,40.702887,0
+                -74.078637,40.70096,0
+                -74.078313,40.701141,0
+                -74.077525,40.700504,0
+                -74.077214,40.700225,0
+                -74.076681,40.700596,0
+                -74.076085,40.700902,0
+                -74.075333,40.701273,0
+                -74.07271,40.702508,0
+                -74.071485,40.702202,0
+                -74.070585,40.702002,0
+                -74.070285,40.701902,0
+                -74.070122,40.701813,0
+                -74.069856,40.70169,0
+                -74.069575,40.701573,0
+                -74.06872,40.700892,0
+                -74.068091,40.700369,0
+                -74.067221,40.699618,0
+                -74.067438,40.699022,0
+                -74.068204,40.696997,0
+                -74.062591,40.69371,0
+                -74.060619,40.692617,0
+                -74.055203,40.689615,0
+                -74.036845,40.680285,0
+                -74.025151,40.699257,0
+                -74.023576,40.708519,0
+                -74.032019,40.709446,0
+                -74.050218,40.711602,0
+                -74.051492,40.711752,0
+                -74.04668,40.720676,0
+                -74.054698,40.723149,0
+                -74.055436,40.721023,0
+                -74.061644,40.72299,0
+                -74.064153,40.72378,0
+                -74.064192,40.723768,0
+                -74.067217,40.724821,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+          <innerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -74.046928,40.690056,0
+                -74.047429,40.68983,0
+                -74.047571,40.690014,0
+                -74.047767,40.68992,0
+                -74.047496,40.689583,0
+                -74.046805,40.689882,0
+                -74.046296,40.689296,0
+                -74.0448,40.688543,0
+                -74.044365,40.688467,0
+                -74.043942,40.688545,0
+                -74.043596,40.688746,0
+                -74.043469,40.689231,0
+                -74.043441,40.689621,0
+                -74.043885,40.690202,0
+                -74.044585,40.690576,0
+                -74.046023,40.691145,0
+                -74.047298,40.691046,0
+                -74.047211,40.690398,0
+                -74.046928,40.690056,0
+              </coordinates>
+            </LinearRing>
+          </innerBoundaryIs>
+          <innerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -74.040155,40.699276,0
+                -74.039817,40.699009,0
+                -74.039724,40.699024,0
+                -74.039646,40.699076,0
+                -74.039607,40.699128,0
+                -74.039533,40.699169,0
+                -74.03945,40.699143,0
+                -74.039381,40.699068,0
+                -74.039327,40.698961,0
+                -74.039249,40.69889,0
+                -74.039117,40.698846,0
+                -74.038867,40.698838,0
+                -74.03869,40.698849,0
+                -74.038436,40.698879,0
+                -74.038279,40.698931,0
+                -74.038117,40.698987,0
+                -74.037985,40.699039,0
+                -74.037957,40.699104,0
+                -74.038025,40.699174,0
+                -74.038167,40.699208,0
+                -74.039403,40.700468,0
+                -74.039491,40.700509,0
+                -74.039608,40.700538,0
+                -74.039726,40.70059,0
+                -74.039795,40.700627,0
+                -74.039932,40.700653,0
+                -74.040064,40.700635,0
+                -74.040177,40.700605,0
+                -74.040312,40.700539,0
+                -74.040361,40.700476,0
+                -74.040346,40.700387,0
+                -74.040302,40.700275,0
+                -74.040292,40.700171,0
+                -74.040209,40.700142,0
+                -74.040121,40.700101,0
+                -74.040101,40.700034,0
+                -74.040175,40.699908,0
+                -74.04017,40.699837,0
+                -74.04015,40.699737,0
+                -74.040106,40.699618,0
+                -74.040003,40.699547,0
+                -74.039876,40.699447,0
+                -74.039734,40.699373,0
+                -74.039665,40.699276,0
+                -74.040155,40.699276,0
+              </coordinates>
+            </LinearRing>
+          </innerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
